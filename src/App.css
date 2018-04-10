@@ -115,7 +115,7 @@ button:active {
 }
 
 .weather__value {
-  color: #fff;
+  color: #000;
   font-weight: 200;
 }
 
